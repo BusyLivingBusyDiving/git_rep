@@ -18,3 +18,6 @@ Creating a new message again
 Create new branch feature1 again and again
 >>>>>>> feature1
 ...add addtional information
+
+
+add new infor int master branch
