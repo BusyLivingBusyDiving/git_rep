@@ -9,3 +9,5 @@ Creating a new branch named feature1 and master
 =======
 Creating a new branch named feature1 and master
 >>>>>>> feature1
+
+Creating new information in branch master
