@@ -27,3 +27,5 @@ create a new branch dev
 >>>>>>> dev
 
 merge!!!
+
+add new information
