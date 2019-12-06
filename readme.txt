@@ -20,4 +20,10 @@ Create new branch feature1 again and again
 ...add addtional information
 
 
+<<<<<<< HEAD
 add new infor int master branch
+=======
+create a new branch dev
+>>>>>>> dev
+
+merge!!!
